@@ -2,7 +2,7 @@
   <img src="https://elia.run/_next/image?url=%2FRemake_bubble_image_as_logo_b553ec84_2K.png&w=64&q=75" alt="Elia Logo" width="96" />
 </p>
 
-<h3 align="center"># Elia, Your AI workspace, everywhere.</h3>
+<h3 align="center">Elia, Your AI workspace, everywhere.</h3>
 
 <p align="center">
   Download Elia for macOS, Windows, and Linux.
