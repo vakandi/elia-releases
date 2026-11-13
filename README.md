@@ -1,14 +1,28 @@
 # Elia
 
-Download the Elia desktop app for macOS, Windows and Linux.
+<p align="center">
+  <img src="https://elia.run/_next/image?url=%2FRemake_bubble_image_as_logo_b553ec84_2K.png&w=64&q=75" alt="Elia Logo" width="96" />
+</p>
 
-**→ [elia.run/download](https://elia.run)**
+<h3 align="center">Your AI workspace, everywhere.</h3>
 
-## Direct downloads
+<p align="center">
+  Download Elia for macOS, Windows, and Linux.
+</p>
 
-Latest installers are attached to the [releases](../../releases) page:
+<p align="center">
+  <a href="https://elia.run"><strong>Download Elia →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="../../releases">All Releases</a>
+</p>
 
-| Platform | File |
+---
+
+## Direct Downloads
+
+Latest installers are available on the [GitHub Releases](../../releases) page.
+
+| Platform | Installer |
 |---|---|
 | macOS (Apple Silicon) | `Elia-<version>-macOS-arm64.dmg` |
 | macOS (Intel) | `Elia-<version>-macOS-x64.dmg` |
@@ -17,4 +31,12 @@ Latest installers are attached to the [releases](../../releases) page:
 
 ## Verification
 
-`SHA256SUMS.txt` is attached to every release.
+Every release includes a `SHA256SUMS.txt` file containing SHA-256 checksums to verify installer integrity.
+
+---
+
+<p align="center">
+  <strong>Elia</strong>
+  <br />
+  <a href="https://elia.run">elia.run</a>
+</p>
